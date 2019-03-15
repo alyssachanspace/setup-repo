@@ -1,0 +1,14 @@
+{
+  "name": "setup-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alyssa Chan <alyssa@whiletrue.codes>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "sass": "^1.17.2"
+  }
+}
