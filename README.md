@@ -2,7 +2,7 @@
 
 ## Prerequisites
 ### For MacOS
-1. [Homebrew](https://brew.sh/) installed - for installing Yarn
+1. [Homebrew](https://brew.sh/) installed - for installing Yarn. Or you may install [`Node.js`](https://nodejs.org/) and use `npm` to install Yarn by `npm i yarn`
 2. [Yarn](https://yarnpkg.com/en/docs/install#mac-stable) installed - for managing dependencies
 3. [Git](https://git-scm.com/downloads) installed - for version control
 4. [GitHub](https://github.com/) registered - for hosting service. You may use [Gitlab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) as an alternative. But [GitHub](https://github.com/) offers free [GitHub Page](https://pages.github.com/) for hosting static websites and you can show your website to public.
@@ -10,7 +10,7 @@
 6. (Optional) [iTerm2](https://www.iterm2.com/downloads.html) - for readable colored terminal
 
 ### For Windows
-1. [Node.js](https://nodejs.org/en/) installed - for using Yarn installer
+1. [Node.js](https://nodejs.org/) installed - for installing Yarn by `npm i yarn`
 2. [Yarn](https://yarnpkg.com/en/docs/install#windows-stable) installed - for managing dependencies
 3. [Git](https://git-scm.com/downloads) installed - for version control
 4. [GitHub](https://github.com/) registered - for hosting service. You may use [Gitlab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) as an alternative. But [GitHub](https://github.com/) offers free [GitHub Page](https://pages.github.com/) for hosting static websites and you can show your website to public.
